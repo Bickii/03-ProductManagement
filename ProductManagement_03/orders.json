@@ -1,0 +1,192 @@
+[
+  {
+    "customer": {
+      "name": "ADAM",
+      "surname": "ŻEROMSKI",
+      "age": 19,
+      "email": "ludzieBezdomniNaMaturze@gmail.com"
+    },
+    "product": {
+      "name": "NARTY",
+      "price": 60,
+      "category": "B"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "name": "JANUSZ",
+      "surname": "MAŁYSZ",
+      "age": 19,
+      "email": "pawelbicki@gmail.com"
+    },
+    "product": {
+      "name": "LEKTURA",
+      "price": 1000,
+      "category": "A"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "customer": {
+      "name": "STEFAN",
+      "surname": "MAŁYSZ",
+      "age": 24,
+      "email": "pawelbicki@gmail.com"
+    },
+    "product": {
+      "name": "FINLANDIA",
+      "price": 200,
+      "category": "B"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "name": "STEFAN",
+      "surname": "ŻEROMSKI",
+      "age": 19,
+      "email": "wNastepnychZawodachCiePokonam@onet.pl"
+    },
+    "product": {
+      "name": "LEKTURA",
+      "price": 60,
+      "category": "B"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 5
+    }
+  },
+  {
+    "customer": {
+      "name": "JANUSZ",
+      "surname": "MAŁYSZ",
+      "age": 32,
+      "email": "adamMalysz@wp.pl"
+    },
+    "product": {
+      "name": "FINLANDIA",
+      "price": 200,
+      "category": "B"
+    },
+    "quantity": 14,
+    "estimatedRealizationDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 5
+    }
+  },
+  {
+    "customer": {
+      "name": "STEFAN",
+      "surname": "MAŁYSZ",
+      "age": 19,
+      "email": "adamMalysz@wp.pl"
+    },
+    "product": {
+      "name": "LEKTURA",
+      "price": 1000,
+      "category": "A"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "name": "JANUSZ",
+      "surname": "ŻEROMSKI",
+      "age": 32,
+      "email": "ludzieBezdomniNaMaturze@gmail.com"
+    },
+    "product": {
+      "name": "NARTY",
+      "price": 1000,
+      "category": "C"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 5
+    }
+  },
+  {
+    "customer": {
+      "name": "ADAM",
+      "surname": "ŻEROMSKI",
+      "age": 32,
+      "email": "wNastepnychZawodachCiePokonam@onet.pl"
+    },
+    "product": {
+      "name": "NARTY",
+      "price": 1000,
+      "category": "C"
+    },
+    "quantity": 3,
+    "estimatedRealizationDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 5
+    }
+  },
+  {
+    "customer": {
+      "name": "ADAM",
+      "surname": "ŻEROMSKI",
+      "age": 24,
+      "email": "wNastepnychZawodachCiePokonam@onet.pl"
+    },
+    "product": {
+      "name": "NARTY",
+      "price": 60,
+      "category": "C"
+    },
+    "quantity": 2,
+    "estimatedRealizationDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "customer": {
+      "name": "STEFAN",
+      "surname": "AHONEN",
+      "age": 24,
+      "email": "adamMalysz@wp.pl"
+    },
+    "product": {
+      "name": "LEKTURA",
+      "price": 60,
+      "category": "C"
+    },
+    "quantity": 2,
+    "estimatedRealizationDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 11
+    }
+  }
+]

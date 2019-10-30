@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ADAM",
+    "surname": "ŻEROMSKI",
+    "age": 19,
+    "email": "ludzieBezdomniNaMaturze@gmail.com"
+  },
+  {
+    "name": "JANUSZ",
+    "surname": "MAŁYSZ",
+    "age": 19,
+    "email": "pawelbicki@gmail.com"
+  },
+  {
+    "name": "STEFAN",
+    "surname": "MAŁYSZ",
+    "age": 24,
+    "email": "pawelbicki@gmail.com"
+  },
+  {
+    "name": "STEFAN",
+    "surname": "ŻEROMSKI",
+    "age": 19,
+    "email": "wNastepnychZawodachCiePokonam@onet.pl"
+  },
+  {
+    "name": "JANUSZ",
+    "surname": "MAŁYSZ",
+    "age": 32,
+    "email": "adamMalysz@wp.pl"
+  },
+  {
+    "name": "STEFAN",
+    "surname": "MAŁYSZ",
+    "age": 19,
+    "email": "adamMalysz@wp.pl"
+  },
+  {
+    "name": "JANUSZ",
+    "surname": "ŻEROMSKI",
+    "age": 32,
+    "email": "ludzieBezdomniNaMaturze@gmail.com"
+  },
+  {
+    "name": "ADAM",
+    "surname": "ŻEROMSKI",
+    "age": 32,
+    "email": "wNastepnychZawodachCiePokonam@onet.pl"
+  }
+]
